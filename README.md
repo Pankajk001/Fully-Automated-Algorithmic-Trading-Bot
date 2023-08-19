@@ -122,6 +122,14 @@ Web scraping entails accessing a webpage's back-end HTML code and parsing it to 
 
 Implementations/codes examples are Provided for the same.
 
+ ![image](https://github.com/Pankajk001/Fully-Automated-Algorithmic-Trading-Bot/assets/121424516/ec3937e9-0f40-48a7-bbe5-18f9d90f6b5e)
+
+ ----
+
+  ![Spyder (Python 3 10) 20-08-2023 02_50_17](https://github.com/Pankajk001/Fully-Automated-Algorithmic-Trading-Bot/assets/121424516/d26db2ee-efcd-492a-9d21-dc51685b0aa2)
+
+  ---
+
 ## Legal Considerations and Challenges
 
 ### Overview
@@ -212,14 +220,33 @@ We'll explore crucial KPIs, including:
 
 Compound Annual Growth Rate (CAGR) is a vital Key Performance Indicator (KPI) for trading strategies. CAGR provides a standardized measure of an asset's annual return over different timeframes, aiding strategy comparison. It's calculated by raising the end value to the power of 1 divided by the years and subtracting 1. CAGR simplifies performance comparison but doesn't account for risk.
 
+![image](https://github.com/Pankajk001/Fully-Automated-Algorithmic-Trading-Bot/assets/121424516/a3b7c011-ad23-4f34-b58b-a0303878bea0)
+
+---
+
+
 ### Understanding Volatility as a Key Risk Metric
 volatility is a crucial risk indicator in trading. Volatility, measured by standard deviation, captures return fluctuations. It's annualized for consistency. Despite limitations, volatility is fundamental for quantifying risk and is widely used in finance.
+
+![image](https://github.com/Pankajk001/Fully-Automated-Algorithmic-Trading-Bot/assets/121424516/cd163966-b58d-47c9-ad40-519902127376)
+
+---
+
 
 ### The Sharpe Ratio  and Sortino Ratio
 The Sharpe ratio, calculated by dividing expected return by volatility, measures excess returns adjusted for risk. The Sortino Ratio, focusing on downside volatility, offers an alternative. Both ratios have their merits, and their use depends on risk preferences.
 
+![image](https://github.com/Pankajk001/Fully-Automated-Algorithmic-Trading-Bot/assets/121424516/cc9adbee-7697-42e1-8773-11e8fdd77d87)
+
+---
+
+
 ### Maximum Drawdown and Calmar Ratio
 Maximum drawdown measures the largest loss, while Calmar Ratio relates return to drawdown. These metrics help evaluate downside risk and inform strategy decisions. Implementing them in Python aids practical understanding.
+
+![image](https://github.com/Pankajk001/Fully-Automated-Algorithmic-Trading-Bot/assets/121424516/84e45fff-a79b-4922-8c24-5607f8c5853a)
+
+
 
 By understanding and utilizing these metrics, we'll gain valuable insights into the potential risks and rewards associated with our trading strategies.
 
@@ -241,6 +268,20 @@ The key components of the Monthly Portfolio Rebalancing strategy implementation 
 4. **Strategy Performance Evaluation**: The performance of the portfolio rebalancing strategy is calculated and compared to a "Buy and Hold" strategy on the Dow Jones Industrial Average (DJI) index. The calculated performance metrics include CAGR, Sharpe ratio, and maximum drawdown. These metrics provide insights into the strategy's risk-return profile and overall effectiveness.
 
 5. **Visualization**: The results of the strategy and the Buy and Hold approach are visualized using Matplotlib. The cumulative returns of both strategies are plotted over time, enabling a visual comparison of their performance.
+
+
+![image](https://github.com/Pankajk001/Fully-Automated-Algorithmic-Trading-Bot/assets/121424516/d20853e3-881e-4c3c-b1c6-f28ce974607e)
+
+---
+
+![image](https://github.com/Pankajk001/Fully-Automated-Algorithmic-Trading-Bot/assets/121424516/5c226cdc-9bcd-4a17-b47e-12d495780d96)
+
+---
+
+
+
+
+
 
 # Intraday Resistance Breakout Strategy - (Strategy - 2)
 
@@ -431,9 +472,15 @@ You can visit the github page of Vader sentiment analysis for better understandi
 
 Machine Learning (ML)-based sentiment analysis uses supervised learning and Bayes' Rule for classification.
 
+![image](https://github.com/Pankajk001/Fully-Automated-Algorithmic-Trading-Bot/assets/121424516/1c3922bf-32d7-4edb-a816-e18e096e4f99)
+
+
 ## ML Feature Matrix and TF-IDF
 
 Creating an ML feature matrix involves representing text data in a structured format. TF-IDF weighs word importance based on frequency and rarity.
+
+![image](https://github.com/Pankajk001/Fully-Automated-Algorithmic-Trading-Bot/assets/121424516/9af5348d-6a67-4546-8f76-eb8ad19e332a)
+
 
 ---
 
