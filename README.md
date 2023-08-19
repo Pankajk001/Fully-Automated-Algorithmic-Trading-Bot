@@ -424,6 +424,8 @@ Vectorization involves converting text into structured vectors suitable for mach
 # Lexicon-Based Sentiment Analysis
 
 Lexicon-based sentiment analysis relies on sentiment lexicons containing words labeled with polarity scores.
+You can visit the github page of Vader sentiment analysis for better understanding of the Polarity is given to the texts or the sentences.
+-[Vader Sentiment Analysis](https://github.com/cjhutto/vaderSentiment)
 
 # ML-Based Sentiment Analysis and Bayes' Rule
 
@@ -475,10 +477,6 @@ By understanding the core concepts of text analysis, including tokenization, vec
 ### Congratulations for reaching here after reading all the stuffs above. Hope you have learned atleat 60% and that is enough.
 
 # Thanks for visiting me !!!
-
-
-
-
 
 #Author
 
