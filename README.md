@@ -80,11 +80,10 @@ But unfortunately these platforms rarely provides free API tokens, so majorly in
 
 In the upcoming sections, we'll delve into using YFinance to extract financial data programmatically, enhancing our algorithmic trading project's data acquisition process.
 
----
 
 By following this guide, you've set the foundation for a successful algorithmic trading project. Whether you're new to trading or an experienced quant, these concepts will equip you with the tools needed to navigate the exciting world of automated trading strategies using Python. Happy coding! 🚀📈
 
-
+---
 
 ## Efficient Data Retrieval: APIs and Web Scraping for Financial Data
 
@@ -141,10 +140,9 @@ monetization opportunities.
 
 Companies frequently change their website's back-end code, causing web scraping scripts to break. This requires ongoing maintenance and adaptation.
 
----
-
 By understanding APIs and web scraping, you'll be equipped with versatile methods to retrieve financial data efficiently. Whether you choose APIs for streamlined access or web scraping as a flexible alternative, navigating the legal landscape and adapting to challenges will be integral to your data retrieval strategy.
 
+---
 # Understanding Technical Indicators in Financial Analysis
 
 Welcome to the guide on Understanding Technical Indicators in Financial Analysis. As of now you have learned how to fetch the required data, now you need to know about some technical indicators in order to proceed further because you will design your algorithms which will be based on these indicators. Here, we'll delve into the role of technical indicators in analyzing financial assets.
@@ -191,9 +189,9 @@ The efficiency market hypothesis supports technical analysis, suggesting that ma
 
 Understanding the foundations of these indicators and coding them in Python is recommended for a comprehensive grasp.
 
----
-
 By understanding technical indicators, you'll gain insights into how traders use them to analyze assets. Whether you're focusing on lagging indicators for trend confirmation or considering their role in a combined analysis approach, these concepts will empower you in developing effective trading strategies.
+
+---
 
 ## Exploring Key Performance Indicators (KPIs)
 
@@ -394,10 +392,9 @@ One of the pitfalls in back testing is overlooking real-world complexities, such
 To enhance the accuracy of back testing, it's recommended to account for these complexities by making conservative assumptions and factoring in real-world challenges.
 
 
+By combining back testing with a deep understanding of Key Performance Indicators (KPIs), we'll ensure that our trading strategies are thoroughly evaluated before implementation. This comprehensive approach enables us to navigate the complexities of real-world trading and make informed decisions based on historical performance analysis.
 
 ---
-
-By combining back testing with a deep understanding of Key Performance Indicators (KPIs), we'll ensure that our trading strategies are thoroughly evaluated before implementation. This comprehensive approach enables us to navigate the complexities of real-world trading and make informed decisions based on historical performance analysis.
 
 # Sentiment Analysis 
 
